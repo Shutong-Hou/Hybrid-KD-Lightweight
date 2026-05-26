@@ -1,0 +1,16 @@
+Seed,Script,Top-1
+42,2_train_teacher.py,82.9
+42,3_train_student_baseline.py,65.93
+42,4_train_kd_standard.py,70.08
+42,5_train_kd_hybrid.py,70.71
+42,6_ablation.py,44.85
+123,2_train_teacher.py,83.16
+123,3_train_student_baseline.py,65.88
+123,4_train_kd_standard.py,68.41
+123,5_train_kd_hybrid.py,70.73
+123,6_ablation.py,42.88
+999,2_train_teacher.py,82.9
+999,3_train_student_baseline.py,65.38
+999,4_train_kd_standard.py,70.56
+999,5_train_kd_hybrid.py,71.34
+999,6_ablation.py,44.96

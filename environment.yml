@@ -1,0 +1,20 @@
+name: caibda
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch=2.1.0
+  - torchvision=0.16.0
+  - torchaudio=2.1.0
+  - pytorch-cuda=12.1          # 若使用 CUDA 11.8，请改为 pytorch-cuda=11.8
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - pandas
+  - pip:
+      - thop                   # 用于 FLOPs 计算
+      - opencv-python          # 可选，图像处理辅助
