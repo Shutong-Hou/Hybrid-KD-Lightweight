@@ -128,5 +128,3 @@ Shutong Hou — [praxel.cn@gmail.com](mailto:praxel.cn@gmail.com)
 College of Software, Shanxi Agricultural University, Jinzhong, 030801, China
 
 ORCID: [0009-0006-0643-1225](https://orcid.org/0009-0006-0643-1225)
-```
-
